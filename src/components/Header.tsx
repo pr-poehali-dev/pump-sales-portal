@@ -17,30 +17,30 @@ const Header = () => {
     <header className="fixed top-0 w-full bg-background/95 backdrop-blur-sm border-b border-border z-50">
       <div className="container mx-auto px-4">
         <div className="flex items-center justify-between h-16">
-          <div className="flex items-center space-x-2">
+          <a href="/" className="flex items-center space-x-2">
             <Icon name="Wrench" className="text-primary" size={28} />
             <span className="text-xl font-bold text-foreground">ТехноНасос</span>
-          </div>
+          </a>
 
           <nav className="hidden md:flex items-center space-x-8">
-            <button
-              onClick={() => scrollToSection('home')}
+            <a
+              href="/"
               className="text-foreground hover:text-primary transition-colors"
             >
               Главная
-            </button>
+            </a>
             <button
               onClick={() => scrollToSection('about')}
               className="text-foreground hover:text-primary transition-colors"
             >
               О компании
             </button>
-            <button
-              onClick={() => scrollToSection('catalog')}
+            <a
+              href="/catalog"
               className="text-foreground hover:text-primary transition-colors"
             >
               Каталог
-            </button>
+            </a>
             <button
               onClick={() => scrollToSection('contacts')}
               className="text-foreground hover:text-primary transition-colors"
@@ -69,24 +69,24 @@ const Header = () => {
         {isMenuOpen && (
           <div className="md:hidden border-t border-border">
             <nav className="py-4 space-y-4">
-              <button
-                onClick={() => scrollToSection('home')}
+              <a
+                href="/"
                 className="block text-foreground hover:text-primary transition-colors"
               >
                 Главная
-              </button>
+              </a>
               <button
                 onClick={() => scrollToSection('about')}
                 className="block text-foreground hover:text-primary transition-colors"
               >
                 О компании
               </button>
-              <button
-                onClick={() => scrollToSection('catalog')}
+              <a
+                href="/catalog"
                 className="block text-foreground hover:text-primary transition-colors"
               >
                 Каталог
-              </button>
+              </a>
               <button
                 onClick={() => scrollToSection('contacts')}
                 className="block text-foreground hover:text-primary transition-colors"

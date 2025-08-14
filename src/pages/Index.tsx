@@ -27,10 +27,12 @@ const Index = () => {
               отопления и промышленных процессов от ведущих производителей
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
-              <Button size="lg" className="text-lg px-8 py-6">
-                <Icon name="Catalog" size={20} className="mr-2" />
-                Смотреть каталог
-              </Button>
+              <a href="/catalog">
+                <Button size="lg" className="text-lg px-8 py-6">
+                  <Icon name="Catalog" size={20} className="mr-2" />
+                  Смотреть каталог
+                </Button>
+              </a>
               <Button variant="outline" size="lg" className="text-lg px-8 py-6">
                 <Icon name="Calculator" size={20} className="mr-2" />
                 Расчет системы
