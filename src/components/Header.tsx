@@ -41,12 +41,12 @@ const Header = () => {
             >
               Каталог
             </a>
-            <button
-              onClick={() => scrollToSection('contacts')}
+            <a
+              href="/#contacts"
               className="text-foreground hover:text-primary transition-colors"
             >
               Контакты
-            </button>
+            </a>
           </nav>
 
           <div className="hidden md:flex items-center space-x-4">
