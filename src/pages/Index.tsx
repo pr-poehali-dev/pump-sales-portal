@@ -367,7 +367,7 @@ const Index = () => {
             <div>
               <h4 className="font-semibold text-foreground mb-4">Контакты</h4>
               <ul className="space-y-2 text-sm text-muted-foreground">
-                <li>+7 (495) 123-45-67</li>
+                <li>+7 933 550-29-38</li>
                 <li>info@technonasos.ru</li>
                 <li>г. Москва, ул. Промышленная, 15</li>
               </ul>
