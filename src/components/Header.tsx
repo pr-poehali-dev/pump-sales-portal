@@ -50,10 +50,7 @@ const Header = () => {
           </nav>
 
           <div className="hidden md:flex items-center space-x-4">
-            <Button>
-              <Icon name="Phone" size={16} className="mr-2" />
-              Заказать звонок
-            </Button>
+            <Button>+7 933 550-29-38</Button>
           </div>
 
           <Button
