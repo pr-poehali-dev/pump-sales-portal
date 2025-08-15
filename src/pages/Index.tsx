@@ -346,15 +346,7 @@ const Index = () => {
 
 
 
-            <div>
-              <h4 className="font-semibold text-foreground mb-4">Услуги</h4>
-              <ul className="space-y-2 text-sm text-muted-foreground">
-                <li>Техническая поддержка</li>
-                <li>Сервисное обслуживание</li>
-                <li>Гарантийный ремонт</li>
-                <li>Консультации</li>
-              </ul>
-            </div>
+
 
             <div>
               <h4 className="font-semibold text-foreground mb-4">Контакты</h4>
