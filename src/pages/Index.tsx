@@ -344,15 +344,7 @@ const Index = () => {
               </p>
             </div>
 
-            <div>
-              <h4 className="font-semibold text-foreground mb-4">Каталог</h4>
-              <ul className="space-y-2 text-sm text-muted-foreground">
-                <li>Центробежные насосы</li>
-                <li>Погружные насосы</li>
-                <li>Винтовые насосы</li>
-                <li>Комплектующие</li>
-              </ul>
-            </div>
+
 
             <div>
               <h4 className="font-semibold text-foreground mb-4">Услуги</h4>
