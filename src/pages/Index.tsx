@@ -224,10 +224,12 @@ const Index = () => {
           </div>
 
           <div className="text-center mt-12">
-            <Button size="lg" variant="outline">
-              <Icon name="Grid3x3" size={20} className="mr-2" />
-              Смотреть весь каталог
-            </Button>
+            <a href="/catalog">
+              <Button size="lg" variant="outline">
+                <Icon name="Grid3x3" size={20} className="mr-2" />
+                Смотреть весь каталог
+              </Button>
+            </a>
           </div>
         </div>
       </section>
