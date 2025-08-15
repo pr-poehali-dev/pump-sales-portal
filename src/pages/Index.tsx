@@ -359,9 +359,7 @@ const Index = () => {
           </div>
 
           <div className="border-t border-border mt-8 pt-8 text-center">
-            <p className="text-sm text-muted-foreground">
-              © 2024 ТехноНасос. Все права защищены.
-            </p>
+            <p className="text-sm text-muted-foreground">© 2025 ООО "Насос Комплект Сервис". ОГРН 1205400000123. Все права защищены.</p>
           </div>
         </div>
       </footer>
