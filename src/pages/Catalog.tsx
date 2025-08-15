@@ -369,12 +369,8 @@ const Catalog = () => {
                   Наши технические специалисты помогут подобрать оптимальное решение 
                   для ваших задач и проведут расчет системы
                 </p>
-                <div className="flex flex-col sm:flex-row gap-4 justify-center">
+                <div className="flex justify-center">
                   <Button size="lg">+7 933 550-29-38</Button>
-                  <Button variant="outline" size="lg">
-                    <Icon name="Calculator" size={20} className="mr-2" />
-                    Расчет системы
-                  </Button>
                 </div>
               </CardContent>
             </Card>
