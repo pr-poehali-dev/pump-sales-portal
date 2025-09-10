@@ -50,7 +50,7 @@ const Header = () => {
           </nav>
 
           <div className="hidden md:flex items-center space-x-4">
-            <Button>+7 933 550-29-38</Button>
+            <Button>+7 933 550-68-27</Button>
           </div>
 
           <Button
