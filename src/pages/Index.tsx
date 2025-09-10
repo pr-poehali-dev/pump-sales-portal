@@ -339,7 +339,7 @@ const Index = () => {
             <div>
               <div className="flex items-center space-x-2 mb-4">
                 <Icon name="Wrench" className="text-primary" size={24} />
-                <span className="text-lg font-bold text-foreground">Насос Комплект Сервис</span>
+                <span className="text-lg font-bold text-foreground">Далас</span>
               </div>
               <p className="text-muted-foreground text-sm">
                 Надежное промышленное насосное оборудование для любых задач
