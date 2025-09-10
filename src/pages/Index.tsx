@@ -354,7 +354,7 @@ const Index = () => {
               <h4 className="font-semibold text-foreground mb-4">Контакты</h4>
               <ul className="space-y-2 text-sm text-muted-foreground">
                 <li>7 933 550-68-27</li>
-                <li>janiyakirova@inbox.ru</li>
+                <li>hanunatashlinceva2002@bk.ru</li>
                 <li>г Новосибирск, ул Аэропорт, д. 1/2, офис 301 </li>
               </ul>
             </div>
