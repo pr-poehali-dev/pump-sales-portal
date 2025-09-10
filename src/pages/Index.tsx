@@ -265,7 +265,7 @@ const Index = () => {
                   </div>
                   <div>
                     <div className="font-semibold text-foreground">Email</div>
-                    <div className="text-muted-foreground">janiyakirova@inbox.ru</div>
+                    <div className="text-muted-foreground">hanunatashlinceva2002@bk.ru</div>
                   </div>
                 </div>
 
