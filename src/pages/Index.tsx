@@ -87,7 +87,7 @@ const Index = () => {
           <div className="max-w-4xl mx-auto">
             <div className="text-center mb-16">
               <h2 className="text-4xl font-bold text-foreground mb-6">О компании</h2>
-              <p className="text-xl text-muted-foreground">Насос Комплект Сервис — ведущий поставщик промышленного насосного оборудования</p>
+              <p className="text-xl text-muted-foreground">Далас — ведущий поставщик промышленного насосного оборудования</p>
             </div>
 
             <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center">
