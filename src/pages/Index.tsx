@@ -355,7 +355,7 @@ const Index = () => {
               <ul className="space-y-2 text-sm text-muted-foreground">
                 <li>7 933 550-68-27</li>
                 <li>hanunatashlinceva2002@bk.ru</li>
-                <li>г Новосибирск, ул Аэропорт, д. 1/2, офис 301 </li>
+                <li>г Новосибирск, ул Дуси Ковальчук, д. 173, этаж 1, 2 </li>
               </ul>
             </div>
           </div>
